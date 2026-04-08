@@ -1,11 +1,8 @@
 const CACHE_NAME = 'kid-planner-v1';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/src/main.tsx',
-  '/src/App.tsx',
-  '/src/index.css',
-  '/manifest.json'
+  '/clock/',
+  '/clock/index.html',
+  '/clock/manifest.json'
 ];
 
 self.addEventListener('install', (event) => {

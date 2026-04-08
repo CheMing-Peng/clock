@@ -2,7 +2,7 @@
   "name": "小主人作息鐘",
   "short_name": "作息鐘",
   "description": "兒童視覺化作息時間表",
-  "start_url": "/",
+  "start_url": "/clock/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
